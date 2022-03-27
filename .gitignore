@@ -2,6 +2,7 @@
 
 # compiled output
 .vscode
+.angular
 /dist
 /tmp
 /out-tsc
